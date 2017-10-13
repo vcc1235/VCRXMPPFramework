@@ -1,0 +1,2 @@
+# VCRXMPPFramework
+XMPP
