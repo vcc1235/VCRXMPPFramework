@@ -1,6 +1,6 @@
 # VCRXMPPFramework
 XMPP
 
-download
+pod install
 
 pod 'XMPP' 
